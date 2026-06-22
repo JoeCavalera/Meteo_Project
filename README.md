@@ -1,5 +1,7 @@
 # Progetto Meteo ed Energia
 
+![Architettura del progetto](docs/images/architettura-progetto.png)
+
 Pipeline dati su Databricks per collegare condizioni meteorologiche e produzione rinnovabile in Italia.
 
 Il progetto **Meteo ed Energia** raccoglie, trasforma e analizza dati meteorologici e dati energetici per studiare il rapporto tra meteo e produzione rinnovabile.
