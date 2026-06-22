@@ -1,0 +1,44 @@
+# Ambiente Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / Databricks / notebook checkpoints
+.ipynb_checkpoints/
+*.dbc
+
+# File di ambiente e credenziali
+.env
+.env.*
+!.env.example
+
+# Token, chiavi, segreti
+*.pem
+*.key
+credentials.*
+secrets.*
+token.*
+password.*
+
+# File locali di sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Output locali
+outputs/
+exports/
+tmp/
+temp/
+
+# Log
+*.log
+
+# Cache
+.cache/
