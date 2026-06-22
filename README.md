@@ -747,6 +747,7 @@ La fase attuale riguarda:
 
 ---
 
-## Licenza
+## License
 
-Licenza da definire prima della pubblicazione definitiva del repository.
+This project is released under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
