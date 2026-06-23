@@ -1,6 +1,6 @@
 # Progetto Meteo ed Energia
 
-![Architettura del progetto](docs/images/Struttura.png)
+![Architettura del progetto](docs/images/Progetto.png)
 
 Pipeline dati su Databricks per collegare condizioni meteorologiche e produzione rinnovabile in Italia.
 
